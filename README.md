@@ -9,3 +9,11 @@ npx create-react-app lovelight
 cd lovelight
 npm install ethers
 ```
+
+## Running the App
+
+To start the app from the root directory:
+
+```bash
+npm run start --prefix lovelight
+```
